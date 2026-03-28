@@ -1,3 +1,4 @@
+// This project follows MVC architecture for better modularity
 public class Main {
 
     public static void main(String[] args) {
