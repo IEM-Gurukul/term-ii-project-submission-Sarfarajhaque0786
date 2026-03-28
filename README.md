@@ -91,6 +91,8 @@ v1.0 Initial Release
 Project completed successfully  
 
 ---
+## Notes
+This project is developed for academic submission and demonstrates basic MVC implementation.
 
 ## Author
 Sarfaraj Haque  
