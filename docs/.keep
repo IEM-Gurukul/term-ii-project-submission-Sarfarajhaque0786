@@ -1,1 +1,8 @@
+This project is based on Object-Oriented Programming concepts.
 
+It follows the MVC (Model-View-Controller) architecture:
+- Model handles data
+- View handles display
+- Controller manages logic
+
+The system allows basic student data operations.
