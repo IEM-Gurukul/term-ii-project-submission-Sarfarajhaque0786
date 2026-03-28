@@ -57,6 +57,7 @@ Managing student information manually can be inefficient and error-prone. This p
 ---
 
 ## Output Screenshots
+![Program Output](Output.png)
 
 ## Advantages
 - Modular design using MVC  
