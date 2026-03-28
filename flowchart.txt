@@ -1,0 +1,13 @@
+Flowchart:
+
+Start
+  ↓
+User selects option
+  ↓
+Controller processes input
+  ↓
+Model stores/retrieves data
+  ↓
+View displays output
+  ↓
+End
