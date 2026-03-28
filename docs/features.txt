@@ -1,5 +1,0 @@
-Features of the Project:
-- Add student details
-- Display student information
-- MVC structured design
-- Simple and user-friendly
