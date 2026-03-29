@@ -1,5 +1,21 @@
 Features of the Project:
-- Add student details
-- Display student information
-- MVC structured design
-- Simple and user-friendly
+
+1. Add Student Details
+   - Allows user to input student name and ID
+
+2. Display Student Information
+   - Shows stored student details clearly
+
+3. MVC Architecture Implementation
+   - Model handles data
+   - View handles display
+   - Controller manages logic
+
+4. Object-Oriented Design
+   - Uses Encapsulation, Abstraction, Polymorphism
+
+5. User-Friendly Interface
+   - Simple and easy-to-use console-based system
+
+6. Modular Structure
+   - Code is organized and easy to maintain
